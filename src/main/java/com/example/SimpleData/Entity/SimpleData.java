@@ -6,8 +6,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.*;
 
-import java.util.ArrayList;
-import java.util.List;
+
 @Getter
 @Setter
 @AllArgsConstructor
